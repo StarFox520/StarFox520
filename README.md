@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hello, I am RiverFox 👏🏻
+**Preview**：From HeNan, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿 and a little fat🍔.
+**Blog**：[My Blog](https://StarFox520.github.io)
+**Contact**：RiverFox@163.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://img.shields.io/badge/CProgrammingLanguage-1.0-green)
+![](https://img.shields.io/badge/JavaScript-3.8-orange?style=for-the—badge&logo=JavaScript&logoColor=orange)
 
 <!--
 **StarFox520/StarFox520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
